@@ -1,8 +1,0 @@
-2026-01-11 06:29:52 - ALERT: New File - ./report.txt | Hash: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
-2026-01-11 06:29:52 - ALERT: Modified - . | New Hash: N/A
-2026-01-11 06:29:52 - ALERT: Modified - ./report.txt | New Hash: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
-2026-01-11 06:29:52 - ALERT: Modified - . | New Hash: N/A
-2026-01-11 06:30:02 - !!! CRITICAL POLICY VIOLATION !!!: New File - ./secret_project.txt | Hash: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
-2026-01-11 06:30:02 - ALERT: Modified - . | New Hash: N/A
-2026-01-11 06:30:02 - !!! CRITICAL POLICY VIOLATION !!!: Modified - ./secret_project.txt | New Hash: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
-2026-01-11 06:30:02 - ALERT: Modified - . | New Hash: N/A
