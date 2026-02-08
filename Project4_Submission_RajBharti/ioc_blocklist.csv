@@ -1,0 +1,51 @@
+Indicator (IOC),Threat Type,Severity,Date Detected
+http://219.157.56.193:53156/i,2026-01-12 13:10:21,High,2026-01-12
+http://196.251.107.104/Polarised_97.74.8_INSTALL.exe,2026-01-12 13:07:07,High,2026-01-12
+http://185.97.113.40:53687/i,2026-01-12 13:06:14,High,2026-01-12
+http://42.227.187.165:43536/bin.sh,2026-01-12 12:53:15,High,2026-01-12
+http://37.52.139.145:57678/i,2026-01-12 12:36:17,High,2026-01-12
+https://github.com/Chromew/Chrome/raw/refs/heads/main/thezonestream.apk,2026-01-12 12:32:26,High,2026-01-12
+https://indian-lotus.cc/,2026-01-12 12:32:20,High,2026-01-12
+http://185.97.113.40:53687/bin.sh,2026-01-12 13:03:00,High,2026-01-12
+https://github.com/maykomayk2554-gif/mayko/blob/main/Foto.apk,,High,2026-01-12
+https://github.com/Chromew/Chromeupdate/commit/0f3dde62579dda4df8f41b93cf42a6c3101289aa#diff-8cfcde8a9c2333c68af5ef4336696e546b2c1e2126c3e72fe6de27b83b0fc2e3,,High,2026-01-12
+http://50.21.181.195/a-r.m-4.SNOOPY,,High,2026-01-12
+http://50.21.181.195/m-6.8-k.SNOOPY,,High,2026-01-12
+http://50.21.181.195/p-p.c-.SNOOPY,,High,2026-01-12
+http://50.21.181.195/i-5.8-6.SNOOPY,,High,2026-01-12
+http://50.21.181.195/s-h.4-.SNOOPY,,High,2026-01-12
+http://50.21.181.195/x-3.2-.SNOOPY,,High,2026-01-12
+http://50.21.181.195/a-r.m-7.SNOOPY,,High,2026-01-12
+http://50.21.181.195/m-i.p-s.SNOOPY,,High,2026-01-12
+http://50.21.181.195/a-r.m-5.SNOOPY,,High,2026-01-12
+http://50.21.181.195/m-p.s-l.SNOOPY,,High,2026-01-12
+http://50.21.181.195/x-8.6-.SNOOPY,,High,2026-01-12
+http://192.210.214.149/i-5.8-6.ISIS,,High,2026-01-12
+http://192.210.214.149/m-6.8-k.ISIS,,High,2026-01-12
+http://192.210.214.149/x-3.2-.ISIS,,High,2026-01-12
+http://202.1.31.175/windyloveyou/windy.i468,,High,2026-01-12
+http://119.185.242.41:50950/bin.sh,2026-01-12 12:19:14,High,2026-01-12
+http://37.52.139.145:57678/bin.sh,2026-01-12 12:17:14,High,2026-01-12
+http://61.52.170.69:58576/i,2026-01-12 12:11:14,High,2026-01-12
+http://115.50.52.47:47145/bin.sh,2026-01-12 12:08:11,High,2026-01-12
+http://185.196.41.95/bash,2026-01-12 12:08:10,High,2026-01-12
+http://185.196.41.95/bins.sh,2026-01-12 12:08:10,High,2026-01-12
+http://27.223.231.2:34864/i,2026-01-12 12:05:11,High,2026-01-12
+http://42.230.213.101:41157/i,2026-01-12 11:47:09,High,2026-01-12
+http://61.52.170.69:58576/bin.sh,2026-01-12 11:46:27,High,2026-01-12
+http://27.223.231.2:34864/bin.sh,2026-01-12 13:10:08,High,2026-01-12
+http://botnet.rehannnap.my.id/johenlastgen/johen.ppc,2026-01-12 11:44:32,High,2026-01-12
+http://botnet.rehannnap.my.id/johenlastgen/johen.arm5,2026-01-12 11:44:32,High,2026-01-12
+http://botnet.rehannnap.my.id/johenlastgen/debug,2026-01-12 13:19:00,High,2026-01-12
+http://botnet.rehannnap.my.id/johenlastgen/johen.arm,2026-01-12 11:44:32,High,2026-01-12
+http://botnet.rehannnap.my.id/johenlastgen/johen.arm6,2026-01-12 11:44:29,High,2026-01-12
+http://botnet.rehannnap.my.id/johenlastgen/johen.arc,2026-01-12 13:01:29,High,2026-01-12
+http://botnet.rehannnap.my.id/johenlastgen/johen.sh4,2026-01-12 11:44:28,High,2026-01-12
+http://botnet.rehannnap.my.id/johenlastgen/johen.spc,2026-01-12 11:44:26,High,2026-01-12
+http://botnet.rehannnap.my.id/johenlastgen/johen.mpsl,2026-01-12 12:59:24,High,2026-01-12
+http://botnet.rehannnap.my.id/johenlastgen/johen.x86_64,2026-01-12 11:44:22,High,2026-01-12
+http://botnet.rehannnap.my.id/johenlastgen/johen.x86,2026-01-12 11:44:22,High,2026-01-12
+http://botnet.rehannnap.my.id/johenlastgen/johen.mips,2026-01-12 11:44:20,High,2026-01-12
+http://botnet.rehannnap.my.id/johenlastgen/johen.arm7,2026-01-12 11:44:20,High,2026-01-12
+http://botnet.rehannnap.my.id/johenlastgen/johen.m68k,2026-01-12 12:54:17,High,2026-01-12
+http://botnet.rehannnap.my.id/johenlastgen/johen.i686,2026-01-12 11:44:19,High,2026-01-12
